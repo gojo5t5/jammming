@@ -12,6 +12,7 @@ export class App extends React.Component {
       searchResults: [
         { name: "n", artist: "a", album: "a", id: 1 },
         { name: "m", artist: "b", album: "b", id: 2 },
+        { name: "m", artist: "b", album: "b", id: 3 },
       ],
     };
   }

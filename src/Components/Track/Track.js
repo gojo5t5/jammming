@@ -2,9 +2,9 @@ import React from "react";
 import "./Track.css";
 
 export class Track extends React.Component {
-  renderAction() {
-    return <button className="Track-action">isRemoval ? '-' : '+'</button>;
-  }
+  //   renderAction() {
+  //     return <button className="Track-action">{isRemoval ? '-' : '+'}</button>;
+  //   }
   render() {
     return (
       <div className="Track">
